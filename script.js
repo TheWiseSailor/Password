@@ -1,5 +1,6 @@
 // Assignment code here
-
+//making a custom alert
+alert("Please Click Generate Password to get started");
 //I will start by defining the character sets
 //(rename it to lowersetChars because I
 //was too lazy to write out the whole thing)
@@ -68,3 +69,12 @@ const addNumberCharacters = () =>
   (possibleCharacters = possibleCharacters.concat(numberArray));
 const addSpecialCharacters = () =>
   (possibleCharacters = possibleCharacters.concat(specialArray));
+
+//adding a function to make a random password based on the user's input
+
+const generateRandomPassword = (length) => {
+  let password = "";
+  for (let i = 0; i < length; i++) {
+    const randomIndex = Math.floor(Math.random() * possibleCharacters.length);
+  }
+};
