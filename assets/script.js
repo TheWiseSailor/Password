@@ -1,17 +1,14 @@
 // Assignment code here
 
-// Get references to the #generate element
-//var generateBtn = document.querySelector("#generate");
-
-// I want to start off with defining the variable,
-
-// Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
-  var passwordText = document.querySelector("#password");
-
-  passwordText.value = password;
-}
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+//I will start by defining the character sets
+//(rename it to lowersetChars because I
+//was too lazy to write out the whole thing)
+lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
+uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+numberChars = "0123456789";
+specialChars = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
+//Converted the character sets into arrays
+const lowercaseChars = lowercaseChars.split("");
+const uppercaseChars = uppercaseChars.split("");
+const numberChars = numberChars.split("");
+const specialChars = specialChars.split("");
