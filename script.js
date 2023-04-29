@@ -94,4 +94,22 @@ const generatePassword = () => {
   if (!ValidCharacterTypes) {
     return;
   }
+
+  //I added selected characters to possibleCharacters array
+  if (hasLowercase) {
+    addLowercaseCharacters();
+  }
+  if (hasUppercase) {
+    addUppercaseCharacters();
+  }
+  if (hasSpecial) {
+    addSpecialCharacters();
+  }
+  //This below will generate a password by picking
+  //random characters from the possibleCharacters array
+  let password = generateRandomPassword(numberOfCharacters);
+  possibleCharacters = [];
+  return password;
+  // this makes it to where it clears it for
+  // security reasons and etc
 };
