@@ -78,3 +78,20 @@ const generateRandomPassword = (length) => {
     const randomIndex = Math.floor(Math.random() * possibleCharacters.length);
   }
 };
+
+//creating a function to where it generates a password
+const generatePassword = () => {
+  let numberOfCharacters = getPasswordLength();
+  numberOfCharacters = validatePasswordLength(numberOfCharacters);
+
+  //the console asks the user what type of characters to include in the password
+  const ValidCharacterTypes = validateCharacterTypes(
+    hasLowercase,
+    hasUppercase,
+    hasNumbers,
+    hasSpecial
+  );
+  if (!ValidCharacterTypes) {
+    return;
+  }
+};
