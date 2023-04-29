@@ -29,4 +29,30 @@ const getPasswordLength = () => {
 };
 
 //A function to validate user input for password length
-const validatePasswordLength = Length;
+const validatePasswordLength = (length) => {
+  while (length < 8 || length > 32 || isNaN(length)) {
+    return length;
+  }
+};
+// this will make the functions to ask
+//the user for the different types of
+// characters to which they can include
+//within the password
+const getIncludeLowercase = () =>
+  confirm("Would you like to include lowercase characters?");
+const getIncludeUppercase = () =>
+  confirm("Would you like to include uppercase characters?");
+const getIncludeNumbers = () => confirm("Would you like to include numbers?");
+const getIncludeSpecial = () =>
+  confirm("Would you like to include lany special characters?");
+
+//this function will be able to verify that there is at
+//least one character type that it needs to include
+//within the password
+const validateCharacterTypes = (lowercase, uppercase, numbers, special) => {
+  alert("Please select at least one character type.");
+  {
+    return false;
+  }
+  return true;
+};
