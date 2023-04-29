@@ -18,8 +18,8 @@ const specialArray = specialChars.split("");
 let possibleCharacters = [];
 // uncommenting the following lines below when needed
 //var password = generatePassword();
-//var generateBtn = document.querySelector("#generate");
-//var passwordText = document.querySelector("#password");
+var generateBtn = document.querySelector("#generate");
+var passwordText = document.querySelector("#password");
 
 //making a function to ask the user for a password length
 const getPasswordLength = () => {
@@ -83,7 +83,12 @@ const generateRandomPassword = (length) => {
 const generatePassword = () => {
   let numberOfCharacters = getPasswordLength();
   numberOfCharacters = validatePasswordLength(numberOfCharacters);
-
+  // I FORGOT TO ADD THIS
+  //to where it asks the user for which types of chracters to include, in the password
+  const hasLowercase = getIncludeLowercase();
+  const hasUppercase = getIncludeUppercase();
+  const hasNumbers = getIncludeNumbers();
+  const hasSpecial = getIncludeSpecial();
   //the console asks the user what type of characters to include in the password
   const ValidCharacterTypes = validateCharacterTypes(
     hasLowercase,
