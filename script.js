@@ -56,3 +56,15 @@ const validateCharacterTypes = (lowercase, uppercase, numbers, special) => {
   }
   return true;
 };
+
+//this will be the section to where I make functions to add the characters selected
+// to possibleCharacters array
+
+const addLowercaseCharacters = () =>
+  (possibleCharacters = possibleCharacters.concat(lowercaseArray));
+const addUppercaseCharacters = () =>
+  (possibleCharacters = possibleCharacters.concat(uppercaseArray));
+const addNumberCharacters = () =>
+  (possibleCharacters = possibleCharacters.concat(numberArray));
+const addSpecialCharacters = () =>
+  (possibleCharacters = possibleCharacters.concat(specialArray));
