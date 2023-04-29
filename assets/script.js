@@ -1,7 +1,9 @@
 // Assignment code here
 
 // Get references to the #generate element
-var generateBtn = document.querySelector("#generate");
+//var generateBtn = document.querySelector("#generate");
+
+// I want to start off with defining the variable,
 
 // Write password to the #password input
 function writePassword() {
