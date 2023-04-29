@@ -23,7 +23,7 @@ let possibleCharacters = [];
 
 //making a function to ask the user for a password length
 const getPasswordLength = () => {
-  let numberOfCharacters = ask(
+  let numberOfCharacters = prompt(
     "How many characters pwould you like in your password? Choose between 8-32 chracters."
   );
   return numberOfCharacters;
@@ -113,3 +113,11 @@ const generatePassword = () => {
   // this makes it to where it clears it for
   // security reasons and etc
 };
+//write the password to the DOM
+const writePassword = () => {
+  if (password) {
+    password.value = password;
+  }
+};
+
+generateBtn.addEventLister("click", writePassword);
