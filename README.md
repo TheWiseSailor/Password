@@ -18,3 +18,9 @@
 **THEN** a password is generated that matches the selected criteria<br>
 **WHEN** the password is generated<br>
 **THEN** the password is either displayed in an alert or written to the page<br>
+
+# Credits
+ **This project was developed with the help of resources from the following sites:** <br>
+https://www.w3schools.com/<br>
+https://stackoverflow.com/<br>
+https://developer.mozilla.org/en-US/<br>
