@@ -36,7 +36,7 @@ const getPasswordLength = () => {
 
 const validatePasswordLength = (length) => {
   while (length < 8 || length > 32 || isNaN(length)) {
-    length = prompt("Please enter a valid number between 8 and 32.");
+    length = prompt("Please enter a valid number between 8 and 128.");
   }
   return length;
 };
