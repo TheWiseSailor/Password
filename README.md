@@ -2,7 +2,7 @@
 **AS AN** employee with access to sensitive data<br>
 **I WANT** to randomly generate a password that meets criteria<br>
 **SO THAT I** can create a strong password that provides greater security<br>
-#Acceptance Criteria
+# Acceptance Criteria
 **GIVEN I** need a new, secure password<br>
 **WHEN I** click the button to generate a password<br>
 **THEN I** am presented with a series of prompts for password criteria<br>
