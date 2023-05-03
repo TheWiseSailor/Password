@@ -20,13 +20,26 @@ including uppercase and lowercase letters, numbers, and symbols.
 **WHEN** prompted for the length of the password<br>
 **THEN I** choose a length of at least 8 characters and no more than 128 characters<br>
 **WHEN** asked for character types to include in the password<br>
-**THEN I**confirm whether or not to include lowercase, uppercase, numeric, and/or special characters<br>
+**THEN I** confirm whether or not to include lowercase, uppercase, numeric, and/or special characters<br>
 **WHEN I** answer each prompt<br>
 **THEN** my input should be validated and at least one character type should be selected<br>
-**WHEN** all prompts are answeredv
+**WHEN** all prompts are answered
 **THEN** a password is generated that matches the selected criteria<br>
 **WHEN** the password is generated<br>
 **THEN** the password is either displayed in an alert or written to the page<br>
+#Technologies used
+HTMLL, CSS, Javascript
+
+# How To Use
+
+Open the index.html file in your web browser. <br>
+Select the desired password length using the range slider.<br>
+Check the boxes to include uppercase letters, lowercase letters, numbers, and symbols.<br>
+Click the "Generate Password" button to generate a random password.
+
+# Contributing
+
+This project is open to contributions. If you would like to contribute, please fork the repository and create a pull request.
 
 # Credits
 
@@ -34,3 +47,11 @@ including uppercase and lowercase letters, numbers, and symbols.
 https://www.w3schools.com/<br>
 https://stackoverflow.com/<br>
 https://developer.mozilla.org/en-US/<br>
+
+# Deployed Site
+
+https://thewisesailor.github.io/Password-Generator/
+
+# Deoployed repo
+
+https://github.com/TheWiseSailor/Password-Generator
