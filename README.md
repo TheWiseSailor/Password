@@ -52,6 +52,6 @@ https://developer.mozilla.org/en-US/<br>
 
 https://thewisesailor.github.io/Password-Generator/
 
-# Deoployed repo
+# Deployed Repository
 
 https://github.com/TheWiseSailor/Password-Generator
