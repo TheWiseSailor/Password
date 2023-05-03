@@ -28,14 +28,14 @@ const generateBtn = document.querySelector("#generate");
 const passwordText = document.querySelector("#password");
 const getPasswordLength = () => {
   let numberOfCharacters = prompt(
-    "How many characters do you want in your password? Choose between 8-32 characters."
+    "How many characters do you want in your password? Choose between 8-128 characters."
   );
   return numberOfCharacters;
 };
 //A function to validate user input for password length
 
 const validatePasswordLength = (length) => {
-  while (length < 8 || length > 32 || isNaN(length)) {
+  while (length < 8 || length > 128 || isNaN(length)) {
     length = prompt("Please enter a valid number between 8 and 128.");
   }
   return length;
