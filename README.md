@@ -57,11 +57,12 @@ https://thewisesailor.github.io/Password-Generator/
 https://github.com/TheWiseSailor/Password-Generator
 
 # 
-![Password 1](https://user-images.githubusercontent.com/68026214/235960780-8ba09629-1610-48f5-b18e-e0b199853337.png)
-![password2](https://user-images.githubusercontent.com/68026214/235960804-4aa9a927-403c-4e52-ab9d-80e18254ff1f.png)
-![Password3](https://user-images.githubusercontent.com/68026214/235960820-ba716e34-5979-4c0d-bc51-beff87294c95.png)
-![password4](https://user-images.githubusercontent.com/68026214/235960907-0492ec1d-c259-490f-9f97-89ef57e0145b.png)
-![Password5](https://user-images.githubusercontent.com/68026214/235961037-a3f1d768-4224-4f60-bee7-c167668f6666.png)
-![Password6joseph](https://user-images.githubusercontent.com/68026214/235961052-2140b170-5be0-425f-8386-5d808d70480f.png)
-![Password7joseph](https://user-images.githubusercontent.com/68026214/235961076-0ceb2613-a005-4774-986c-2467a6844411.png)
-![Passwordfinal joseph](https://user-images.githubusercontent.com/68026214/235961089-4388ac4b-0569-482f-9b0d-3c8df17e2f54.png)
+![Password 1](https://user-images.githubusercontent.com/68026214/235961720-e35dd3c3-9df2-43ec-b7a7-3bb65dd84a70.jpg)
+![password2](https://user-images.githubusercontent.com/68026214/235961746-a1d683f7-a0dc-4c04-a357-2bc9436043fd.jpg)
+![Password5](https://user-images.githubusercontent.com/68026214/235962440-128d326d-a2a1-4cdb-8ff2-851c8c7cf00e.jpg)
+![Password3](https://user-images.githubusercontent.com/68026214/235961760-c7c7e319-3501-49f6-aaa4-c01d9d395ea8.jpg)
+![password4](https://user-images.githubusercontent.com/68026214/235961765-0ee576d4-e7b2-47fa-b787-aa4cfa119e24.jpg)
+![Password6joseph](https://user-images.githubusercontent.com/68026214/235962311-75371152-ed05-4fd8-bca1-e611df09d1d7.jpg)
+![Password7joseph](https://user-images.githubusercontent.com/68026214/235962327-aa1d52a2-8b08-4cba-b2d5-8f39ca0311d5.jpg)
+![Passwordfinal joseph](https://user-images.githubusercontent.com/68026214/235962348-e5792893-2a13-459a-b242-128b352ffc97.jpg)
+
