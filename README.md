@@ -55,3 +55,13 @@ https://thewisesailor.github.io/Password-Generator/
 # Deployed Repository
 
 https://github.com/TheWiseSailor/Password-Generator
+
+# 
+![Password 1](https://user-images.githubusercontent.com/68026214/235960780-8ba09629-1610-48f5-b18e-e0b199853337.png)
+![password2](https://user-images.githubusercontent.com/68026214/235960804-4aa9a927-403c-4e52-ab9d-80e18254ff1f.png)
+![Password3](https://user-images.githubusercontent.com/68026214/235960820-ba716e34-5979-4c0d-bc51-beff87294c95.png)
+![password4](https://user-images.githubusercontent.com/68026214/235960907-0492ec1d-c259-490f-9f97-89ef57e0145b.png)
+![Password5](https://user-images.githubusercontent.com/68026214/235961037-a3f1d768-4224-4f60-bee7-c167668f6666.png)
+![Password6joseph](https://user-images.githubusercontent.com/68026214/235961052-2140b170-5be0-425f-8386-5d808d70480f.png)
+![Password7joseph](https://user-images.githubusercontent.com/68026214/235961076-0ceb2613-a005-4774-986c-2467a6844411.png)
+![Passwordfinal joseph](https://user-images.githubusercontent.com/68026214/235961089-4388ac4b-0569-482f-9b0d-3c8df17e2f54.png)
